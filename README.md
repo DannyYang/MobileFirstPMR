@@ -1,5 +1,5 @@
 # MobileFirstPMR
-This project is only for PMR. It shows Android APP unable to connect after the application is restarted
+This project is only for PMR. It shows Android APP unable to connect MFP server after the application is restarted
 
 
 Project setup:
