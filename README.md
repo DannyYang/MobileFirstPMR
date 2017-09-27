@@ -16,6 +16,6 @@ The test scenario:
 1. cordova prepare
 2. mfpdev app webencrypt (with certificate pinning)
 3. debug on android device
-4. first run works fine. but fail to connect when reload this app
+4. first run works fine. but fail to connect when reload this app. Because Android device can not find the certificate.
 
 refer SO link : https://stackoverflow.com/questions/46342633/mobilefirst-8-android-app-cannot-connect-to-mobilefirst-server-after-direct-update
