@@ -48,7 +48,7 @@ var app = {
 app.initialize();
 
 
-function wlCommonInit(){s
+function wlCommonInit(){
     WL.Client.pinTrustedCertificatePublicKey('YOUR_CERT.cer').then(
         function(r){
             console.log("pinTrustedCertificatePublicKey success!");
